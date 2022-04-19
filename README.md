@@ -18,7 +18,7 @@
 
 - 📫 You can always get in touch with me via **hello@batuhan.me** and social media
 
-- ⚡ Imádom Budapestet. Miért? Mert azt mondtam.
+- ⚡ Imádom Budapestet. Miért? Mert azt mondtam
 
 
 <p align="center">
