@@ -1,4 +1,4 @@
-<h1 align="center">Szia 👋, I'm Batuhan</h1>
+<h1 align="center">Dzień Dobry 👋, I'm Batuhan</h1>
 <h3 align="center">Full-stack and passionate developer</h3>
 
 <p align="left">
@@ -6,7 +6,7 @@
   <br />
 </p>
 
-- 🔭 I’m currently working for [Dogus Technology](https://d-teknoloji.com.tr) as a senior full-stack developer
+- 🔭 I’m currently working for [DXC Luxoft](https://luxoft.com) as a senior full-stack developer
 
 - 🌱 I’m currently learning **Solidity** and **EVM** to improve myself on Web3 and smart-contracts
 
