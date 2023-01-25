@@ -1,12 +1,14 @@
-<h1 align="center">Dzień Dobry 👋, I'm Batuhan</h1>
-<h3 align="center">Full-stack and passionate developer</h3>
+<h1 align="center">Cześć 👋, I'm Batuhan</h1>
+<h3 align="center">Senior Software developer</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=batuhankok" alt="batuhankok" />
   <br />
 </p>
 
-- 🔭 I’m currently working for [DXC Luxoft](https://luxoft.com) as a senior full-stack developer
+- 📌 I’m living in Warsaw, Poland, so you can call me "warszawianka"
+
+- 🔭 I’m now working for [DXC Luxoft](https://luxoft.com) as a senior full-stack software developer
 
 - 🌱 I’m currently learning **Solidity** and **EVM** to improve myself on Web3 and smart-contracts
 
