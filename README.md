@@ -1,5 +1,6 @@
 <h1 align="center">Cześć 👋, I'm Batuhan</h1>
-<h3 align="center">Senior Software developer</h3>
+<h3 align="center">Senior Software Seveloper</h3>
+<h6 align="center">Organization account of me: <a href="https://github.com/conbuk-cg">@conbuk-cg</a></h6>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=batuhankok" alt="batuhankok" />
