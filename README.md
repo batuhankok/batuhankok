@@ -1,13 +1,13 @@
-<h1 align="center">Cześć 👋, I'm Batuhan</h1>
+<h1 align="center">Hej 👋, I'm Batuhan</h1>
 <h3 align="center">Senior Software Seveloper</h3>
-<h6 align="center">Organization account of me: <a href="https://github.com/conbuk-cg">@conbuk-cg</a></h6>
+<h6 align="center">My organisation account: <a href="https://github.com/conbuk-cg">@conbuk-cg</a></h6>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=batuhankok" alt="batuhankok" />
   <br />
 </p>
 
-- 📌 I’m living in Warsaw, Poland, so you can call me "warszawianka"
+- 📌 I’m living in Warsaw, Poland. So, you can call me "warszawianka"
 
 - 🔭 I’m now working for [DXC Luxoft](https://luxoft.com) as a senior full-stack software developer
 
@@ -32,13 +32,13 @@
 <p align="center">
   <a href="https://twitter.com/batuhankok" target="blank">
     <img align="center" src="icons/twitter.png" alt="batuhankok" height="30" width="30" />
-  </a>
+  </a>&nbsp;
   <a href="https://linkedin.com/in/batuhankok" target="blank">
     <img align="center" src="icons/linkedin.png" alt="batuhankok" height="30" width="30" />
-  </a>
+  </a>&nbsp;
   <a href="https://stackoverflow.com/users/batuhankok" target="blank">
     <img align="center" src="icons/stackoverflow.png" alt="batuhankok" height="30" width="30" />
-  </a>
+  </a>&nbsp;
   <a href="https://instagram.com/batuhn" target="blank">
     <img align="center" src="icons/instagram.png" alt="batuhn" height="30" width="30" />
   </a>
